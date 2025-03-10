@@ -1,4 +1,4 @@
 # satyendra1
 My first repository 
 <br>
-Author sri satyendra
+Author (sri satyendra)
